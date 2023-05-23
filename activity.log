@@ -225,3 +225,4 @@
 2023-05-19T00:00:00 - test: add unit tests
 2023-05-19T00:00:00 - fix: handle edge cases
 2023-05-23T00:00:00 - refactor: clean up code
+2023-05-23T00:00:00 - perf: speed up inference
