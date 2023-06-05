@@ -241,3 +241,4 @@
 2023-06-02T00:00:00 - refactor: modularize
 2023-06-02T00:00:00 - refactor: improve code
 2023-06-02T00:00:00 - perf: speed up inference
+2023-06-05T00:00:00 - fix: resolve bug
