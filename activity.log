@@ -323,3 +323,4 @@
 2023-08-04T00:00:00 - docs: update README
 2023-08-04T00:00:00 - refactor: modularize
 2023-08-07T00:00:00 - test: add integration tests
+2023-08-07T00:00:00 - test: improve coverage
