@@ -910,3 +910,4 @@
 2024-09-16T00:00:00 - refactor: clean up code
 2024-09-16T00:00:00 - test: improve coverage
 2024-09-16T00:00:00 - perf: speed up inference
+2024-09-17T00:00:00 - perf: reduce memory
