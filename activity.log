@@ -1063,3 +1063,4 @@
 2025-01-13T00:00:00 - perf: optimize performance
 2025-01-13T00:00:00 - fix: handle edge cases
 2025-01-13T00:00:00 - docs: add API docs
+2025-01-16T00:00:00 - perf: speed up inference
