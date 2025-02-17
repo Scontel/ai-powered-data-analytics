@@ -1107,3 +1107,4 @@
 2025-02-13T00:00:00 - test: add integration tests
 2025-02-14T00:00:00 - docs: update install guide
 2025-02-17T00:00:00 - fix: correct model training
+2025-02-17T00:00:00 - test: improve coverage
