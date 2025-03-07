@@ -1132,3 +1132,4 @@
 2025-03-05T00:00:00 - test: add unit tests
 2025-03-05T00:00:00 - feat: add data support
 2025-03-06T00:00:00 - perf: speed up inference
+2025-03-07T00:00:00 - test: add integration tests
