@@ -1188,3 +1188,4 @@
 2025-04-18T00:00:00 - docs: update README
 2025-04-22T00:00:00 - perf: speed up inference
 2025-04-22T00:00:00 - docs: update install guide
+2025-04-22T00:00:00 - fix: correct model training
