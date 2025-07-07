@@ -1318,3 +1318,4 @@
 2025-07-07T00:00:00 - refactor: clean up code
 2025-07-07T00:00:00 - style: fix formatting
 2025-07-07T00:00:00 - docs: update install guide
+2025-07-07T00:00:00 - perf: speed up inference
