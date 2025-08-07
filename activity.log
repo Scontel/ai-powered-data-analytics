@@ -1352,3 +1352,4 @@
 2025-08-05T00:00:00 - docs: update install guide
 2025-08-07T00:00:00 - perf: reduce memory
 2025-08-07T00:00:00 - feat: implement algorithm
+2025-08-07T00:00:00 - fix: correct model training
