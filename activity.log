@@ -1431,3 +1431,4 @@
 2025-10-15T00:00:00 - test: add unit tests
 2025-10-15T00:00:00 - perf: reduce memory
 2025-10-16T00:00:00 - perf: speed up inference
+2025-10-16T00:00:00 - style: fix formatting
