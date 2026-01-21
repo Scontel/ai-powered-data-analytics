@@ -1599,3 +1599,4 @@
 2026-01-20T00:00:00 - feat: implement algorithm
 2026-01-20T00:00:00 - perf: reduce memory
 2026-01-21T00:00:00 - docs: update install guide
+2026-01-21T00:00:00 - fix: handle edge cases
