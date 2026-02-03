@@ -1615,3 +1615,4 @@
 2026-01-30T00:00:00 - perf: speed up inference
 2026-02-02T00:00:00 - test: add integration tests
 2026-02-03T00:00:00 - fix: handle edge cases
+2026-02-03T00:00:00 - chore: update dependencies
